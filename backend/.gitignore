@@ -24,3 +24,6 @@ ormconfig.json
 
 # foder contents
 /uploads/**
+
+#database
+/src/database/database.sqlite
