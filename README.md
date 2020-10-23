@@ -118,6 +118,16 @@ $ git clone https://github.com/ArthurHetem/happy.git
   $ yarn start # or npm start
 ```
 
+- :iphone: Web app
+
+```sh
+  $ cd mobile
+  # Dependencies install.
+  $ yarn # or npm install
+  # Running web app
+  $ yarn start # or npm start
+```
+
 ## :memo: License
 
 This project is under the **[MIT](./LICENSE)** license.
